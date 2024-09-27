@@ -1,6 +1,6 @@
-# Setting Up Qdrant Vector Database
+# Implement VGGNet
 
-This notebook contains code to implement VGGNet.
+This notebook contains code to implement VGGNet using Pytorch.
 
 ## Overview
 

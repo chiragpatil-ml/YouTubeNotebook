@@ -1,6 +1,6 @@
-# Setting Up Qdrant Vector Database
+# Implement AlexNet
 
-This notebook contains code to implement AlexNet.
+This notebook contains code to implement AlexNet using Pytorch.
 
 ## Overview
 

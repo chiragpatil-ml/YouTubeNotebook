@@ -1,6 +1,6 @@
-# Setting Up Qdrant Vector Database
+# Implement ResNet
 
-This notebook contains code to implement ResNet.
+This notebook contains code to implement ResNet using Pytorch.
 
 ## Overview
 

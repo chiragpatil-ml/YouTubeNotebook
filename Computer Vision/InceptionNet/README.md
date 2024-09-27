@@ -1,6 +1,6 @@
-# Setting Up Qdrant Vector Database
+# Implement InceptionNet
 
-This notebook contains code to implement InceptionNet.
+This notebook contains code to implement InceptionNet using Pytorch.
 
 ## Overview
 
