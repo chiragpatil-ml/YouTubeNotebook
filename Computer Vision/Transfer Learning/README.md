@@ -6,6 +6,6 @@ Watch the video below to learn about Transfer Learning and see how to implement 
 
 ## Video Tutorial
 
-[Watch the Video](https://youtu.be/QNNDHeEAGE4)
+[Watch the Video](https://youtu.be/ClIZ-DdTKAQ)
 
 ## Thank you.
