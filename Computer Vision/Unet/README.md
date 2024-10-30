@@ -1,4 +1,4 @@
-# Implement ResNet
+# Implement U-Net
 
 This notebook contains code to implement U-Net using Pytorch.
 
