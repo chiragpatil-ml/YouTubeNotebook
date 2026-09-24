@@ -1,0 +1,485 @@
+{
+    "documents": [
+        {
+            "query": "walgreens salary average",
+            "expected_answer": [
+                "Approximately $15,000 per year."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9652,
+            "chunk_ids": [
+                "9652_0"
+            ]
+        },
+        {
+            "query": "how much do bartenders make",
+            "expected_answer": [
+                "The average hourly wage for a bartender is $10.36 and the average yearly take-home is $21,550."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9653,
+            "chunk_ids": [
+                "9653_1"
+            ]
+        },
+        {
+            "query": "what is a furuncle boil",
+            "expected_answer": [
+                "A boil, also called a furuncle, is a deep folliculitis, infection of the hair follicle.It is most commonly caused by infection by the bacterium Staphylococcus aureus."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9654,
+            "chunk_ids": [
+                "9654_6"
+            ]
+        },
+        {
+            "query": "what is vitamin a used for",
+            "expected_answer": [
+                "Shigellosis, diseases of the nervous system, nose infections, loss of sense of smell, asthma, persistent headaches, kidney stones, overactive thyroid, iron-poor blood (anemia), deafness, ringing in the ears, and precancerous mouth sores."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9656,
+            "chunk_ids": [
+                "9656_4"
+            ]
+        },
+        {
+            "query": "what causes genetic alterations in normal cells",
+            "expected_answer": [
+                "The initiation of cell transformation is generally associated with genetic alterations in normal cells that lead to the loss of intercellular-and/or extracellular-matrix- (ECM-) mediated cell adhesion."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9657,
+            "chunk_ids": [
+                "9657_5"
+            ]
+        },
+        {
+            "query": "cost to frame basement",
+            "expected_answer": [
+                "$2.51 - $3.17 per square foot"
+            ],
+            "difficulty": "normal",
+            "query_ids": 9658,
+            "chunk_ids": [
+                "9658_5"
+            ]
+        },
+        {
+            "query": "erudite divergent definition",
+            "expected_answer": [
+                "It is one of the five factions in the world of Divergent, the one and only faction dedicated to knowledge, intelligence, curiosity, and astuteness."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9659,
+            "chunk_ids": [
+                "9659_7"
+            ]
+        },
+        {
+            "query": "why is albumin normally absent in urine",
+            "expected_answer": [
+                "The kidney cells generally prevent large molecules including proteins, from being excreted."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9660,
+            "chunk_ids": [
+                "9660_3"
+            ]
+        },
+        {
+            "query": "where was movie the birds filmed",
+            "expected_answer": [
+                "Bodega Lane, Bodega, Northern California."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9661,
+            "chunk_ids": [
+                "9661_5"
+            ]
+        },
+        {
+            "query": "cost to file bankruptcy in virginia",
+            "expected_answer": [
+                "The cost for filing a Chapter 7 bankruptcy is $306.\nThe fee of $281 for a Chapter 13 bankruptcy."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9662,
+            "chunk_ids": [
+                "9662_5"
+            ]
+        },
+        {
+            "query": "what is a hummingbird moth",
+            "expected_answer": [
+                "The hummingbird moth is an enchanting insect. Many mistake it for a hummingbird, it is that charming! On summer evenings, my husband and I sit outside in front of our flower garden watching hummingbirds."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9663,
+            "chunk_ids": [
+                "9663_0"
+            ]
+        },
+        {
+            "query": "what does a western blot detect",
+            "expected_answer": [
+                "Specific proteins in a sample of tissue homogenate or extract."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9664,
+            "chunk_ids": [
+                "9664_6"
+            ]
+        },
+        {
+            "query": "what is vegetable bouillon",
+            "expected_answer": [
+                "It is a compressed, flavor-concentrated cube of dehyrated meat, poultry, fish, or vegetable stock.Bouillon granuales are the granular form of the dehydrated concentrate."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9665,
+            "chunk_ids": [
+                "9665_6"
+            ]
+        },
+        {
+            "query": "want is tom cruise doing now",
+            "expected_answer": [
+                "Tom cruise is flirting with, Rebecca Ferguson to rebuild his image."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9667,
+            "chunk_ids": [
+                "9667_1"
+            ]
+        },
+        {
+            "query": "what means irie",
+            "expected_answer": [
+                "Alright, powerful and pleasing, excellent, highest, the state of feeling great."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9668,
+            "chunk_ids": [
+                "9668_7"
+            ]
+        },
+        {
+            "query": "what is baseball twine made of",
+            "expected_answer": [
+                "Yarn"
+            ],
+            "difficulty": "normal",
+            "query_ids": 9669,
+            "chunk_ids": [
+                "9669_0"
+            ]
+        },
+        {
+            "query": "What Does Lop means",
+            "expected_answer": [
+                "Lack of Prosecution."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9670,
+            "chunk_ids": [
+                "9670_0",
+                "9670_2"
+            ]
+        },
+        {
+            "query": "how much do tuna fishers first mates make",
+            "expected_answer": [
+                "school Bluefin tuna is 100 to 200 pounds.Giant Bluefin tuna is 400 pounds."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9671,
+            "chunk_ids": [
+                "9671_4"
+            ]
+        },
+        {
+            "query": "how to start gypsophila elegans seeds",
+            "expected_answer": [
+                "Gypsophila elegans, start the plant by seed indoors, provide full, hot sun, use a good drainage area, and water the plant well."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9672,
+            "chunk_ids": [
+                "9672_0"
+            ]
+        },
+        {
+            "query": "how long to get masters degree",
+            "expected_answer": [
+                "One to three years."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9673,
+            "chunk_ids": [
+                "9673_5"
+            ]
+        },
+        {
+            "query": "what is treatment for jaundice",
+            "expected_answer": [
+                "Phototherapy"
+            ],
+            "difficulty": "normal",
+            "query_ids": 9674,
+            "chunk_ids": [
+                "9674_4"
+            ]
+        },
+        {
+            "query": "replacing permanent resident card canada",
+            "expected_answer": [
+                "A permanent resident card is the main way Canadian perment residents of all ages(formerly known as landed immigrants) prove their status to government agencies You must show your PR Card when returning to Canada after travelling internationally by any commercial carrier."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9675,
+            "chunk_ids": [
+                "9675_5"
+            ]
+        },
+        {
+            "query": "what is a purified phytochemical",
+            "expected_answer": [
+                "chemicals that are produced by plants."
+            ],
+            "difficulty": "normal",
+            "query_ids": 9676,
+            "chunk_ids": [
+                "9676_2"
+            ]
+        },
+        {
+            "query": "What happened on July 5, 2011?",
+            "query_ids": [
+                11442
+            ],
+            "chunk_ids": [
+                "11442_0"
+            ],
+            "difficulty": "hybrid",
+            "expected_answer": "The acquisition of NXP's Sound Solutions business by Knowles Electronics, part of Dover Corporation, was completed on July 5, 2011."
+        },
+        {
+            "query": "What is $460 / Ln. Ft.?",
+            "query_ids": [
+                10918
+            ],
+            "difficulty": "hybrid",
+            "chunk_ids": [
+                "10918,_3"
+            ],
+            "expected_answer": "$460 / Ln. Ft. refers to the cost per linear foot for a custom-built 6-foot-high stone fence. Fence installation costs can range from $15 per linear foot for a standard 4-foot-high chain-link fence to $460 per linear foot or more for a custom-built 6-foot-high stone fence."
+        },
+        {
+            "query": "What does Ctrl-X do?",
+            "query_ids": [
+                10751
+            ],
+            "difficulty": "hybrid",
+            "chunk_ids": [
+                "10751_3"
+            ],
+            "expected_answer": "Ctrl-X exits the Pico text editor. If there are unsaved changes, Pico asks whether to save them before exiting."
+        },
+        {
+            "query": "What happened in February 1935?",
+            "query_ids": 10826,
+            "chunk_ids": [
+                "10826_5"
+            ],
+            "expected_answer": "The Merlin engine first took to the air in February 1935."
+        },
+        {
+            "query": "What was the C$63,136 salary associated with?",
+            "query_ids": [
+                11441
+            ],
+            "difficulty": "hybrid",
+            "chunk_ids": [
+                "11441_7"
+            ],
+            "expected_answer": "C$63,136 was the average annual pay for a Chartered Accountant in Canada."
+        },
+        {
+            "query": "What was the hourly wage of $34.15 associated with?",
+            "difficulty": "hybrid",
+            "query_ids": [
+                11441
+            ],
+            "chunk_ids": [
+                "11441_3"
+            ],
+            "expected_answer": "$34.15 was the average hourly wage for certified public accountants and other accountants employed in the U.S., corresponding to a mean annual CPA salary of $71,040 in May 2012."
+        },
+        {
+            "query": "Which category had a 5.1% growth between 2011 and 2012?",
+            "difficulty": "hybrid",
+            "query_ids": [
+                11441
+            ],
+            "chunk_ids": [
+                "11441_5"
+            ],
+            "expected_answer": "Entry-level corporate Accountants at midsize/small companies had a 5.1% salary growth between 2011 and 2012."
+        },
+        {
+            "question_id": 47,
+            "difficulty": "hard",
+            "query": "How do western blotting and urinalysis differ in what they examine, while sharing the broader purpose of detecting abnormalities or specific biological signals?",
+            "expected_answer": "Western blotting detects specific proteins in a mixture using separation and membrane-based detection, whereas urinalysis examines urine for physical, chemical, and microscopic abnormalities. Both are laboratory methods used to detect biologically meaningful abnormalities.",
+            "query_ids": [
+                9664,
+                9655
+            ],
+            "chunk_ids": [
+                "9664_0",
+                "9664_2",
+                "9655_1",
+                "9655_2"
+            ]
+        },
+        {
+            "question_id": 1,
+            "difficulty": "hard",
+            "query": "How do the reported Walgreens store-size figure and front-end revenue-per-square-foot figure combine to describe the economics of an average store?",
+            "expected_answer": "The average Walgreens store was reported at approximately 10,200 square feet, while average front-end revenue was $303 per store square foot in 2012. Together, these figures describe both the physical scale of a store and its revenue productivity.",
+            "query_ids": [
+                9652,
+                9652
+            ],
+            "chunk_ids": [
+                "9652_4",
+                "9652_0"
+            ]
+        },
+        {
+            "question_id": 8,
+            "difficulty": "hard",
+            "query": "How does Erudite's philosophy differ from the philosophy associated with Candor, and what symbols represent the two factions?",
+            "expected_answer": "Erudite blames human ignorance and seeks to eliminate ignorance and darkness from people's minds; its symbol is a blue eye. Candor blames duplicity and deception and values honesty; its symbol is a set of unbalanced scales bound by a circle.",
+            "query_ids": [
+                9659,
+                9659
+            ],
+            "chunk_ids": [
+                "9659_0",
+                "9659_1"
+            ]
+        },
+        {
+            "question_id": 9,
+            "difficulty": "hard",
+            "query": "How does abnormal urinary albumin relate to the normal role of the kidneys in filtering proteins?",
+            "expected_answer": "Normally, kidney filtration prevents large molecules such as proteins from entering urine. If the kidneys are damaged, albumin can leak into urine, so elevated or increasing urinary albumin can indicate kidney damage.",
+            "query_ids": [
+                9660,
+                9655
+            ],
+            "chunk_ids": [
+                "9660_0",
+                "9660_2",
+                "9660_1",
+                "9655_1"
+            ]
+        },
+        {
+            "question_id": 10,
+            "difficulty": "hard",
+            "query": "What geographic choices made for The Birds demonstrate the difference between the story's setting and the film's actual shooting locations?",
+            "expected_answer": "The film focuses on Bodega Bay, California, and most exterior scenes were filmed around Bodega and Bodega Bay. The original story by Daphne du Maurier was set in an English seashore village, and only a short opening sequence of the film was shot in San Francisco.",
+            "query_ids": [
+                9661,
+                9661
+            ],
+            "chunk_ids": [
+                "9661_3",
+                "9661_6",
+                "9661_7"
+            ]
+        },
+        {
+            "question_id": 11,
+            "difficulty": "hard",
+            "query": "How do Virginia bankruptcy eligibility rules connect income level, repayment duration, and filing fees?",
+            "expected_answer": "Income is compared with the Virginia median for a household of the same size. If income is below the median, the person can qualify for Chapter 7 and can use a three-year Chapter 13 plan instead of five years. Chapter 7 costs $306 and Chapter 13 costs $281.",
+            "query_ids": [
+                9662,
+                9662
+            ],
+            "chunk_ids": [
+                "9662_4",
+                "9662_3",
+                "9662_7"
+            ]
+        },
+        {
+            "question_id": 16,
+            "difficulty": "hard",
+            "query": "How does sustainability challenge the traditional short-term corporate definition of profitability?",
+            "expected_answer": "Traditional corporate thinking evaluates efforts largely by their short-term effect on profits. Sustainability takes a longer ROI horizon and integrates environmental, social, and economic considerations, while the supplied material says initial sustainable investments can eventually increase profitability.",
+            "query_ids": [
+                9691,
+                9691
+            ],
+            "chunk_ids": [
+                "9691_5",
+                "9691_6",
+                "9691_9"
+            ]
+        },
+        {
+            "question_id": 18,
+            "difficulty": "hard",
+            "query": "How do the two descriptions of gold reconcile its origin outside Earth with its present occurrence in terrestrial rocks?",
+            "expected_answer": "The supplied material describes gold as an element formed in stellar environments and also says that gold reached Earth through cosmic processes such as meteorites. Once on Earth, it occurs naturally in rocks and ores, often as native metal or gold-silver alloy.",
+            "query_ids": [
+                9694,
+                9694
+            ],
+            "chunk_ids": [
+                "9694_0",
+                "9694_1",
+                "9694_2",
+                "9694_3"
+            ]
+        },
+        {
+            "question_id": 48,
+            "difficulty": "hard",
+            "query": "How do the LPN and master's-degree pathways compare in terms of minimum study time and the availability of flexible formats?",
+            "expected_answer": "LPN training can take roughly 9-18 months depending on the program and circumstances, while a master's degree is commonly around two years full-time. Both fields offer flexible alternatives such as online study, and LPN programs can also offer evening or weekend schedules.",
+            "query_ids": [
+                9698,
+                9673
+            ],
+            "chunk_ids": [
+                "9698_1",
+                "9698_3",
+                "9698_4",
+                "9673_7",
+                "9673_9"
+            ]
+        },
+        {
+            "question_id": 32,
+            "difficulty": "hard",
+            "query": "How do the Canadian and U.S. permanent-resident card procedures differ in the purpose of the application described?",
+            "expected_answer": "The Canadian material describes an initial, renewal, or replacement PR Card for eligible Canadian permanent residents, while the U.S. material describes Form I-90 for replacing or renewing a Green Card and receiving a receipt notice after USCIS processes the application.",
+            "query_ids": [
+                9675,
+                9675
+            ],
+            "chunk_ids": [
+                "9675_1",
+                "9675_2",
+                "9675_7"
+            ]
+        }
+    ]
+}

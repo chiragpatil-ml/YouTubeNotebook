@@ -1,0 +1,10 @@
+pdfplumber
+qdrant-client
+sentence-transformers
+pandas
+fastembed
+langchain 
+langchain-openai 
+langchain-community 
+sqlalchemy 
+python-dotenv
